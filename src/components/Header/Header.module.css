@@ -1,0 +1,92 @@
+.header {
+    width: 100vw;
+    padding: 24px 30px 80px;
+}
+
+.containerHeader {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    font-weight: 500;
+}
+
+.logo {
+    height: 50px;
+    width: auto;
+
+    margin-right: 5px;
+}
+
+.containerNavIN {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.containerNavIN ul {
+    width: 600px;
+
+    display: flex;
+    justify-content: space-between;
+
+    color: #8d9098;
+    font-size: 16px;
+}
+
+.containerNavIN ul li:hover {
+    color: #17a5e6;
+    cursor: pointer;
+}
+
+.btns {
+    min-width: 360px;
+
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    margin-left: 75px;
+
+    color: #323845;
+    font-weight: 600;
+    font-size: 16.5px;
+}
+
+.btns a:visited {
+    color: #323845;
+}
+
+.btns a:hover {
+    color: #17a5e6;
+    cursor: pointer;
+}
+
+
+.blog {
+    display: flex;
+    align-items: center;
+
+    padding-right: 40px;
+
+    border-right: 1.5px solid rgba(111, 205, 248, 0.5)
+}
+
+.blogImage {
+    margin-right: 10px;
+}
+
+.arrow {
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    justify-content: flex-end;
+}
+
+.arrowImage {
+    margin-left: 10px;
+}
