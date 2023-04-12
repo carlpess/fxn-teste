@@ -1,0 +1,18 @@
+
+<svg width="208" height="64" viewBox="0 0 208 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="208" height="64" rx="2" fill="white" fill-opacity="0.7"/>
+<rect x="0.5" y="0.5" width="207" height="63" rx="1.5" stroke="white" stroke-opacity="0.2"/>
+<path opacity="0.5" d="M40 32V40" stroke="#2ECBE5" stroke-width="1.75" stroke-linejoin="round"/>
+<path opacity="0.5" d="M34.7001 34.6699V39.9999" stroke="#2ECBE5" stroke-width="1.75" stroke-linejoin="round"/>
+<path opacity="0.5" d="M24 37V40" stroke="#2ECBE5" stroke-width="1.75" stroke-linejoin="round"/>
+<path opacity="0.5" d="M29.3 33.6006V40.0006" stroke="#2ECBE5" stroke-width="1.75" stroke-linejoin="round"/>
+<path d="M35.9395 28.5087C36.6229 29.1921 36.6229 30.3001 35.9395 30.9835C35.256 31.6669 34.148 31.6669 33.4646 30.9835C32.7812 30.3001 32.7812 29.1921 33.4646 28.5087C34.148 27.8252 35.256 27.8252 35.9395 28.5087" stroke="#2ECBE5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.3424 24.0057C42.0258 24.6891 42.0258 25.7972 41.3424 26.4806C40.659 27.164 39.551 27.164 38.8675 26.4806C38.1841 25.7972 38.1841 24.6891 38.8675 24.0057C39.551 23.3223 40.659 23.3223 41.3424 24.0057" stroke="#2ECBE5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.1325 29.4032C25.8159 30.0866 25.8159 31.1946 25.1325 31.8781C24.449 32.5615 23.341 32.5615 22.6576 31.8781C21.9742 31.1946 21.9742 30.0866 22.6576 29.4032C23.341 28.7198 24.449 28.7198 25.1325 29.4032" stroke="#2ECBE5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30.5364 24.9003C31.2198 25.5837 31.2198 26.6917 30.5364 27.3751C29.853 28.0585 28.7449 28.0585 28.0615 27.3751C27.3781 26.6917 27.3781 25.5837 28.0615 24.9003C28.7449 24.2168 29.853 24.2168 30.5364 24.9003" stroke="#2ECBE5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M38.77 26.3604L36.04 28.6304" stroke="#2ECBE5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.24 28.7804L30.75 27.1104" stroke="#2ECBE5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.24 29.5298L27.96 27.2598" stroke="#2ECBE5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<rect opacity="0.2" x="60" y="23" width="90" height="6" rx="1" fill="#662D91"/>
+<rect opacity="0.1" x="60" y="35" width="49" height="6" rx="1" fill="#662D91"/>
+</svg>

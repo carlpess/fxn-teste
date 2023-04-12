@@ -1,6 +1,7 @@
 {
   "name": "fxn-teste",
   "version": "0.1.0",
+  "homepage": "fxn-teste/",
   "private": true,
   "scripts": {
     "dev": "next dev",
