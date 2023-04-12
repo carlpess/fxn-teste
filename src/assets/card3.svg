@@ -1,0 +1,13 @@
+
+<svg width="193" height="64" viewBox="0 0 193 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="193" height="64" rx="2" fill="white" fill-opacity="0.5"/>
+<rect x="0.5" y="0.5" width="192" height="63" rx="1.5" stroke="white" stroke-opacity="0.2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M25 28H41C42.105 28 43 28.895 43 30V40C43 41.105 42.105 42 41 42H25C23.895 42 23 41.105 23 40V30C23 28.895 23.895 28 25 28Z" stroke="#2ECBE5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M34.7678 33.2322C35.7441 34.2085 35.7441 35.7915 34.7678 36.7678C33.7915 37.7441 32.2085 37.7441 31.2322 36.7678C30.2559 35.7915 30.2559 34.2085 31.2322 33.2322C32.2085 32.2559 33.7915 32.2559 34.7678 33.2322" stroke="#2ECBE5" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M39 37.5V32.5" stroke="#2ECBE5" stroke-width="1.75" stroke-linejoin="round"/>
+<path d="M27 37.5V32.5" stroke="#2ECBE5" stroke-width="1.75" stroke-linejoin="round"/>
+<path opacity="0.5" d="M41 25H25" stroke="#2ECBE5" stroke-width="1.75" stroke-linejoin="round"/>
+<path opacity="0.5" d="M40 22H26" stroke="#2ECBE5" stroke-width="1.75" stroke-linejoin="round"/>
+<rect opacity="0.2" x="60" y="23" width="90" height="6" rx="1" fill="#662D91"/>
+<rect opacity="0.1" x="60" y="35" width="49" height="6" rx="1" fill="#662D91"/>
+</svg>
