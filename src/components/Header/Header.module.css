@@ -1,6 +1,10 @@
 .header {
     width: 100vw;
     padding: 24px 30px 80px;
+
+    position: sticky;
+    top: 0;
+    left: 0;
 }
 
 .containerHeader {
